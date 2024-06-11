@@ -4,6 +4,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ancientlian&show_icons=true&theme=tokyonight)
 
+## snk
+![亮色](https://raw.githubusercontent.com/ancientlian/ancientlian/output/github-contribution-grid-snake.svg)
+
 ## 常用语言占比统计
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ancientlian&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
